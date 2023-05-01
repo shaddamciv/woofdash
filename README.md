@@ -1,3 +1,10 @@
+# WOOF DASH
+
+A game for chainlink hackathon using Aztec Noir as a template and Game Maker as the game dev platform.
+
+
+
+
 # Noir Starter
 
 This is a reference repo to help you get started with writing zero-knowledge circuits with Noir.
